@@ -25,6 +25,10 @@
 --overlay-background-color: #eeeeee;
 --highlight-background-color: #cccccc;
 
+footer {
+  background-color: #595959 !important; /* Use !important to override other styles */
+}
+
 /* sizes */
 --heading-font-size-xxl: 15px;
 --heading-font-size-xl: 15px;
@@ -251,9 +255,6 @@ main > .section:first-of-type {
   }
 }
 
-footer {
-  background-color: #595959; /* Replace with your desired color */
-}
 
 /* section metadata */
 main .section.light,
