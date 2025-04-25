@@ -11,30 +11,31 @@
  */
 
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+    /* fonts */
+    --heading-font-family: Raleway, HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --body-font-family: Raleway, HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --fixed-font-family: "Roboto Mono", menlo, consolas, "Liberation Mono", monospace;
 
-  /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+    /* colors */
+    --text-color: #696969;
+    --link-color: #ffffff;
+    --link-hover-color: Invalid input color;
+    --background-color: #ffffff;
+    --overlay-background-color: #eeeeee;
+    --highlight-background-color: #cccccc;
 
-  /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
-
-  /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
+    /* sizes */
+    --heading-font-size-xxl: 15px;
+    --heading-font-size-xl: 15px;
+    --heading-font-size-l: 15px;
+    --heading-font-size-m: 15px;
+    --heading-font-size-s: 15px;
+    --heading-font-size-xs: 15px;
+    --body-font-size-m: 18px;
+    --body-font-size-s: 16px;
+    --body-font-size-xs: 15px;
+    --body-font-size-xxs: 14px;
+    --body-font-size-undefined: 12px;
 
   /* nav height */
   --nav-height: 64px;
