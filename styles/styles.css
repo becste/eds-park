@@ -250,6 +250,10 @@ main > .section:first-of-type {
   }
 }
 
+footer {
+  background-color: #595959; /* Replace with your desired color */
+}
+
 /* section metadata */
 main .section.light,
 main .section.highlight {
