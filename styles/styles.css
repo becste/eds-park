@@ -100,9 +100,6 @@ footer .footer[data-block-status="loaded"] {
   visibility: visible;
 }
 
-footer .footer {
-  background-color: #595959; /* Replace with your desired color */
-}
 
 h1,
 h2,
