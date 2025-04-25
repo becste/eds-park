@@ -31,6 +31,14 @@ footer {
   text-align: center;
 }
 
+footer a {
+  color: #FFFFFF; /* Replace with your desired link color */
+}
+
+footer a:hover {
+  color: #6AAAE4; /* Replace with your desired hover color */
+}
+
 /* sizes */
 --heading-font-size-xxl: 15px;
 --heading-font-size-xl: 15px;
