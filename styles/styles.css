@@ -27,6 +27,8 @@
 
 footer {
   background-color: #595959 !important; /* Use !important to override other styles */
+  color: #ffffff; /* Replace with your desired text color */
+  text-align: center;
 }
 
 /* sizes */
